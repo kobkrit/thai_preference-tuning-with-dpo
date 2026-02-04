@@ -1,16 +1,9 @@
-# DPO (Direct Preference Optimization) ภาษาไทย
+# Advanced Finetuning Strategy ภาษาไทย
 
-บทเรียนการทำ Direct Preference Optimization สำหรับ Large Language Models แปลและปรับปรุงเป็นภาษาไทย
+บทเรียนการทำ Advanced Finetuning Strategy 
+โดยเฉพาะ Direct Preference Optimization สำหรับ Large Language Models แปลและปรับปรุงเป็นภาษาไทย
 
 **ใช้ Qwen3-0.6B** - รองรับภาษาไทยและ Thinking Mode (`<think>` tags)
-
-## อ้างอิง
-
-> **Raschka, Sebastian. *Build A Large Language Model (From Scratch)*. Manning, 2024. ISBN: 978-1633437166.**
-
-- หนังสือต้นฉบับ: [Build a Large Language Model From Scratch](http://mng.bz/orYv)
-- Repository ต้นฉบับ: [https://github.com/rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-- Qwen3 Implementation: [rasbt/qwen3-from-scratch](https://huggingface.co/rasbt/qwen3-from-scratch)
 
 ## เนื้อหาในโฟลเดอร์นี้
 
@@ -93,8 +86,19 @@ pip install torch matplotlib tqdm safetensors huggingface_hub tokenizers
 
 ## ผู้แปลและปรับปรุง
 
-แปลและปรับปรุงโดย ดร.กอบกฤตย์ วิริยะยุทธกร (Kobkrit Viriyayudhakorn), iApp Technology Co., Ltd. สำหรับการอบรม ThaiLLM ที่ NECTEC
+แปลและปรับปรุงโดย ดร.กอบกฤตย์ วิริยะยุทธกร (Kobkrit Viriyayudhakorn) 
+iApp Technology Co., Ltd. 
+kobkrit@iapp.co.th
 
 ## License
 
 โค้ดต้นฉบับโดย Sebastian Raschka ภายใต้ Apache License 2.0
+
+## อ้างอิง
+
+> **Raschka, Sebastian. *Build A Large Language Model (From Scratch)*. Manning, 2024. ISBN: 978-1633437166.**
+
+- หนังสือต้นฉบับ: [Build a Large Language Model From Scratch](http://mng.bz/orYv)
+- Repository ต้นฉบับ: [https://github.com/rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+- Qwen3 Implementation: [rasbt/qwen3-from-scratch](https://huggingface.co/rasbt/qwen3-from-scratch)
+
