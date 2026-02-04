@@ -93,9 +93,8 @@ pip install torch matplotlib tqdm safetensors huggingface_hub tokenizers
 
 ## ผู้แปลและปรับปรุง
 
-แปลและปรับปรุงโดย ดร.กอบกฤตย์ วิริยะยุทธกร (Kobkrit Viriyayudhakorn), iApp Technology Co., Ltd. สำหรับการอบรม NECTEC
+แปลและปรับปรุงโดย ดร.กอบกฤตย์ วิริยะยุทธกร (Kobkrit Viriyayudhakorn), iApp Technology Co., Ltd. สำหรับการอบรม ThaiLLM ที่ NECTEC
 
 ## License
 
 โค้ดต้นฉบับโดย Sebastian Raschka ภายใต้ Apache License 2.0
-# thai_preference-tuning-with-dpo
