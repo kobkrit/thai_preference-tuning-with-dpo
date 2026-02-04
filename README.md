@@ -14,8 +14,8 @@
 | ไฟล์ | Colab Link | คำอธิบาย |
 |------|---------|---------|
 | `00_create_preference_data_ollama.ipynb` | | สร้างข้อมูล Preference ด้วย Ollama (Local) |
-| `00_create_preference_data_thaillm.ipynb` | https://colab.research.google.com/drive/1drR8evzQY1IlmtoXxNo_I3eWGUMkpern?usp=sharing | สร้างข้อมูล Preference ด้วย ThaiLLM API |
-| `01_dpo_from_scratch_thai.ipynb` | https://colab.research.google.com/drive/1fFIVthfOBHY0Fu287lqSUvuaY85-HpDE?usp=sharing | **บทเรียนหลัก SFT vs DPO vs GRPO** ด้วย Qwen3-0.6B ⭐ |
+| `00_create_preference_data_thaillm.ipynb` | [Colab](https://colab.research.google.com/drive/1drR8evzQY1IlmtoXxNo_I3eWGUMkpern?usp=sharing) | สร้างข้อมูล Preference ด้วย ThaiLLM API |
+| `01_dpo_from_scratch_thai.ipynb` | [Colab](https://colab.research.google.com/drive/1fFIVthfOBHY0Fu287lqSUvuaY85-HpDE?usp=sharing) | **บทเรียนหลัก SFT vs DPO vs GRPO** ด้วย Qwen3-0.6B ⭐ |
 | `dpo_thai_dataset.json` | | ข้อมูล DPO ภาษาไทย (100 รายการ) |
 | `qwen3.py` | | Qwen3 Model Implementation |
 | `images/` | | รูปภาพประกอบการสอน |
