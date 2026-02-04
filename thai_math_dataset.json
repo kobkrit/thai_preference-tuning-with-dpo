@@ -1,0 +1,602 @@
+[
+  {
+    "question": "๑๘ + ๖ = ?",
+    "answer": "๒๔",
+    "arabic_answer": 24,
+    "operation": "+"
+  },
+  {
+    "question": "๑๐ ÷ ๕ = ?",
+    "answer": "๒",
+    "arabic_answer": 2,
+    "operation": "÷"
+  },
+  {
+    "question": "๒๕ + ๓๕ = ?",
+    "answer": "๖๐",
+    "arabic_answer": 60,
+    "operation": "+"
+  },
+  {
+    "question": "๖ × ๑ = ?",
+    "answer": "๖",
+    "arabic_answer": 6,
+    "operation": "×"
+  },
+  {
+    "question": "๑๘ - ๑๑ = ?",
+    "answer": "๗",
+    "arabic_answer": 7,
+    "operation": "-"
+  },
+  {
+    "question": "๑๒ × ๔ = ?",
+    "answer": "๔๘",
+    "arabic_answer": 48,
+    "operation": "×"
+  },
+  {
+    "question": "๑๐ - ๗ = ?",
+    "answer": "๓",
+    "arabic_answer": 3,
+    "operation": "-"
+  },
+  {
+    "question": "๓๙ + ๒๕ = ?",
+    "answer": "๖๔",
+    "arabic_answer": 64,
+    "operation": "+"
+  },
+  {
+    "question": "๑ + ๒๑ = ?",
+    "answer": "๒๒",
+    "arabic_answer": 22,
+    "operation": "+"
+  },
+  {
+    "question": "๒ ÷ ๒ = ?",
+    "answer": "๑",
+    "arabic_answer": 1,
+    "operation": "÷"
+  },
+  {
+    "question": "๔๓ + ๑๐ = ?",
+    "answer": "๕๓",
+    "arabic_answer": 53,
+    "operation": "+"
+  },
+  {
+    "question": "๑๑ - ๕ = ?",
+    "answer": "๖",
+    "arabic_answer": 6,
+    "operation": "-"
+  },
+  {
+    "question": "๘๐ ÷ ๑๐ = ?",
+    "answer": "๘",
+    "arabic_answer": 8,
+    "operation": "÷"
+  },
+  {
+    "question": "๘ × ๑ = ?",
+    "answer": "๘",
+    "arabic_answer": 8,
+    "operation": "×"
+  },
+  {
+    "question": "๖ × ๙ = ?",
+    "answer": "๕๔",
+    "arabic_answer": 54,
+    "operation": "×"
+  },
+  {
+    "question": "๔๐ ÷ ๔ = ?",
+    "answer": "๑๐",
+    "arabic_answer": 10,
+    "operation": "÷"
+  },
+  {
+    "question": "๑ × ๗ = ?",
+    "answer": "๗",
+    "arabic_answer": 7,
+    "operation": "×"
+  },
+  {
+    "question": "๙๐ ÷ ๙ = ?",
+    "answer": "๑๐",
+    "arabic_answer": 10,
+    "operation": "÷"
+  },
+  {
+    "question": "๖๓ ÷ ๙ = ?",
+    "answer": "๗",
+    "arabic_answer": 7,
+    "operation": "÷"
+  },
+  {
+    "question": "๙ × ๑ = ?",
+    "answer": "๙",
+    "arabic_answer": 9,
+    "operation": "×"
+  },
+  {
+    "question": "๑๕ - ๑๕ = ?",
+    "answer": "๐",
+    "arabic_answer": 0,
+    "operation": "-"
+  },
+  {
+    "question": "๑๕ ÷ ๕ = ?",
+    "answer": "๓",
+    "arabic_answer": 3,
+    "operation": "÷"
+  },
+  {
+    "question": "๖ × ๙ = ?",
+    "answer": "๕๔",
+    "arabic_answer": 54,
+    "operation": "×"
+  },
+  {
+    "question": "๑๖ ÷ ๒ = ?",
+    "answer": "๘",
+    "arabic_answer": 8,
+    "operation": "÷"
+  },
+  {
+    "question": "๖๐ ÷ ๑๐ = ?",
+    "answer": "๖",
+    "arabic_answer": 6,
+    "operation": "÷"
+  },
+  {
+    "question": "๑๓ + ๓๘ = ?",
+    "answer": "๕๑",
+    "arabic_answer": 51,
+    "operation": "+"
+  },
+  {
+    "question": "๔๑ + ๒๔ = ?",
+    "answer": "๖๕",
+    "arabic_answer": 65,
+    "operation": "+"
+  },
+  {
+    "question": "๒๓ + ๑๕ = ?",
+    "answer": "๓๘",
+    "arabic_answer": 38,
+    "operation": "+"
+  },
+  {
+    "question": "๘๑ ÷ ๙ = ?",
+    "answer": "๙",
+    "arabic_answer": 9,
+    "operation": "÷"
+  },
+  {
+    "question": "๔๑ + ๑๙ = ?",
+    "answer": "๖๐",
+    "arabic_answer": 60,
+    "operation": "+"
+  },
+  {
+    "question": "๓๖ ÷ ๔ = ?",
+    "answer": "๙",
+    "arabic_answer": 9,
+    "operation": "÷"
+  },
+  {
+    "question": "๙ ÷ ๓ = ?",
+    "answer": "๓",
+    "arabic_answer": 3,
+    "operation": "÷"
+  },
+  {
+    "question": "๕๖ ÷ ๗ = ?",
+    "answer": "๘",
+    "arabic_answer": 8,
+    "operation": "÷"
+  },
+  {
+    "question": "๑ + ๙ = ?",
+    "answer": "๑๐",
+    "arabic_answer": 10,
+    "operation": "+"
+  },
+  {
+    "question": "๔ ÷ ๔ = ?",
+    "answer": "๑",
+    "arabic_answer": 1,
+    "operation": "÷"
+  },
+  {
+    "question": "๖ × ๑๑ = ?",
+    "answer": "๖๖",
+    "arabic_answer": 66,
+    "operation": "×"
+  },
+  {
+    "question": "๗ × ๑๑ = ?",
+    "answer": "๗๗",
+    "arabic_answer": 77,
+    "operation": "×"
+  },
+  {
+    "question": "๒ ÷ ๑ = ?",
+    "answer": "๒",
+    "arabic_answer": 2,
+    "operation": "÷"
+  },
+  {
+    "question": "๓๓ + ๒๓ = ?",
+    "answer": "๕๖",
+    "arabic_answer": 56,
+    "operation": "+"
+  },
+  {
+    "question": "๖ + ๒๘ = ?",
+    "answer": "๓๔",
+    "arabic_answer": 34,
+    "operation": "+"
+  },
+  {
+    "question": "๓๕ + ๒๕ = ?",
+    "answer": "๖๐",
+    "arabic_answer": 60,
+    "operation": "+"
+  },
+  {
+    "question": "๓๕ + ๔๕ = ?",
+    "answer": "๘๐",
+    "arabic_answer": 80,
+    "operation": "+"
+  },
+  {
+    "question": "๖ ÷ ๑ = ?",
+    "answer": "๖",
+    "arabic_answer": 6,
+    "operation": "÷"
+  },
+  {
+    "question": "๘ × ๑ = ?",
+    "answer": "๘",
+    "arabic_answer": 8,
+    "operation": "×"
+  },
+  {
+    "question": "๗ × ๖ = ?",
+    "answer": "๔๒",
+    "arabic_answer": 42,
+    "operation": "×"
+  },
+  {
+    "question": "๔๑ + ๔๑ = ?",
+    "answer": "๘๒",
+    "arabic_answer": 82,
+    "operation": "+"
+  },
+  {
+    "question": "๓๖ - ๕ = ?",
+    "answer": "๓๑",
+    "arabic_answer": 31,
+    "operation": "-"
+  },
+  {
+    "question": "๓๓ - ๑๖ = ?",
+    "answer": "๑๗",
+    "arabic_answer": 17,
+    "operation": "-"
+  },
+  {
+    "question": "๔๑ + ๔ = ?",
+    "answer": "๔๕",
+    "arabic_answer": 45,
+    "operation": "+"
+  },
+  {
+    "question": "๔๕ ÷ ๙ = ?",
+    "answer": "๕",
+    "arabic_answer": 5,
+    "operation": "÷"
+  },
+  {
+    "question": "๒๘ - ๒๕ = ?",
+    "answer": "๓",
+    "arabic_answer": 3,
+    "operation": "-"
+  },
+  {
+    "question": "๑๘ ÷ ๖ = ?",
+    "answer": "๓",
+    "arabic_answer": 3,
+    "operation": "÷"
+  },
+  {
+    "question": "๙ × ๒ = ?",
+    "answer": "๑๘",
+    "arabic_answer": 18,
+    "operation": "×"
+  },
+  {
+    "question": "๔๗ - ๒๕ = ?",
+    "answer": "๒๒",
+    "arabic_answer": 22,
+    "operation": "-"
+  },
+  {
+    "question": "๓ ÷ ๑ = ?",
+    "answer": "๓",
+    "arabic_answer": 3,
+    "operation": "÷"
+  },
+  {
+    "question": "๖ ÷ ๑ = ?",
+    "answer": "๖",
+    "arabic_answer": 6,
+    "operation": "÷"
+  },
+  {
+    "question": "๔๐ ÷ ๘ = ?",
+    "answer": "๕",
+    "arabic_answer": 5,
+    "operation": "÷"
+  },
+  {
+    "question": "๓ ÷ ๑ = ?",
+    "answer": "๓",
+    "arabic_answer": 3,
+    "operation": "÷"
+  },
+  {
+    "question": "๙ × ๙ = ?",
+    "answer": "๘๑",
+    "arabic_answer": 81,
+    "operation": "×"
+  },
+  {
+    "question": "๓๑ - ๑๗ = ?",
+    "answer": "๑๔",
+    "arabic_answer": 14,
+    "operation": "-"
+  },
+  {
+    "question": "๓๕ + ๔๗ = ?",
+    "answer": "๘๒",
+    "arabic_answer": 82,
+    "operation": "+"
+  },
+  {
+    "question": "๔ × ๑๐ = ?",
+    "answer": "๔๐",
+    "arabic_answer": 40,
+    "operation": "×"
+  },
+  {
+    "question": "๒ × ๕ = ?",
+    "answer": "๑๐",
+    "arabic_answer": 10,
+    "operation": "×"
+  },
+  {
+    "question": "๒๓ - ๑๑ = ?",
+    "answer": "๑๒",
+    "arabic_answer": 12,
+    "operation": "-"
+  },
+  {
+    "question": "๗ × ๑ = ?",
+    "answer": "๗",
+    "arabic_answer": 7,
+    "operation": "×"
+  },
+  {
+    "question": "๑๓ + ๓๓ = ?",
+    "answer": "๔๖",
+    "arabic_answer": 46,
+    "operation": "+"
+  },
+  {
+    "question": "๑๑ - ๔ = ?",
+    "answer": "๗",
+    "arabic_answer": 7,
+    "operation": "-"
+  },
+  {
+    "question": "๑๐ × ๔ = ?",
+    "answer": "๔๐",
+    "arabic_answer": 40,
+    "operation": "×"
+  },
+  {
+    "question": "๓๙ + ๒๑ = ?",
+    "answer": "๖๐",
+    "arabic_answer": 60,
+    "operation": "+"
+  },
+  {
+    "question": "๒๒ + ๓๖ = ?",
+    "answer": "๕๘",
+    "arabic_answer": 58,
+    "operation": "+"
+  },
+  {
+    "question": "๔๔ - ๙ = ?",
+    "answer": "๓๕",
+    "arabic_answer": 35,
+    "operation": "-"
+  },
+  {
+    "question": "๕๖ ÷ ๘ = ?",
+    "answer": "๗",
+    "arabic_answer": 7,
+    "operation": "÷"
+  },
+  {
+    "question": "๑๗ + ๔๖ = ?",
+    "answer": "๖๓",
+    "arabic_answer": 63,
+    "operation": "+"
+  },
+  {
+    "question": "๔๒ ÷ ๖ = ?",
+    "answer": "๗",
+    "arabic_answer": 7,
+    "operation": "÷"
+  },
+  {
+    "question": "๔๒ - ๙ = ?",
+    "answer": "๓๓",
+    "arabic_answer": 33,
+    "operation": "-"
+  },
+  {
+    "question": "๓๙ + ๓๙ = ?",
+    "answer": "๗๘",
+    "arabic_answer": 78,
+    "operation": "+"
+  },
+  {
+    "question": "๖๐ ÷ ๖ = ?",
+    "answer": "๑๐",
+    "arabic_answer": 10,
+    "operation": "÷"
+  },
+  {
+    "question": "๔๕ + ๔ = ?",
+    "answer": "๔๙",
+    "arabic_answer": 49,
+    "operation": "+"
+  },
+  {
+    "question": "๘ × ๖ = ?",
+    "answer": "๔๘",
+    "arabic_answer": 48,
+    "operation": "×"
+  },
+  {
+    "question": "๓๖ ÷ ๖ = ?",
+    "answer": "๖",
+    "arabic_answer": 6,
+    "operation": "÷"
+  },
+  {
+    "question": "๓๘ - ๒๒ = ?",
+    "answer": "๑๖",
+    "arabic_answer": 16,
+    "operation": "-"
+  },
+  {
+    "question": "๒๑ - ๑๓ = ?",
+    "answer": "๘",
+    "arabic_answer": 8,
+    "operation": "-"
+  },
+  {
+    "question": "๒๗ + ๒๕ = ?",
+    "answer": "๕๒",
+    "arabic_answer": 52,
+    "operation": "+"
+  },
+  {
+    "question": "๓ × ๙ = ?",
+    "answer": "๒๗",
+    "arabic_answer": 27,
+    "operation": "×"
+  },
+  {
+    "question": "๑๒ ÷ ๖ = ?",
+    "answer": "๒",
+    "arabic_answer": 2,
+    "operation": "÷"
+  },
+  {
+    "question": "๒ × ๕ = ?",
+    "answer": "๑๐",
+    "arabic_answer": 10,
+    "operation": "×"
+  },
+  {
+    "question": "๑ × ๗ = ?",
+    "answer": "๗",
+    "arabic_answer": 7,
+    "operation": "×"
+  },
+  {
+    "question": "๓๘ + ๒๕ = ?",
+    "answer": "๖๓",
+    "arabic_answer": 63,
+    "operation": "+"
+  },
+  {
+    "question": "๒ × ๘ = ?",
+    "answer": "๑๖",
+    "arabic_answer": 16,
+    "operation": "×"
+  },
+  {
+    "question": "๔ × ๑๑ = ?",
+    "answer": "๔๔",
+    "arabic_answer": 44,
+    "operation": "×"
+  },
+  {
+    "question": "๔๐ ÷ ๕ = ?",
+    "answer": "๘",
+    "arabic_answer": 8,
+    "operation": "÷"
+  },
+  {
+    "question": "๔ × ๑๒ = ?",
+    "answer": "๔๘",
+    "arabic_answer": 48,
+    "operation": "×"
+  },
+  {
+    "question": "๙๐ ÷ ๙ = ?",
+    "answer": "๑๐",
+    "arabic_answer": 10,
+    "operation": "÷"
+  },
+  {
+    "question": "๖ × ๑ = ?",
+    "answer": "๖",
+    "arabic_answer": 6,
+    "operation": "×"
+  },
+  {
+    "question": "๑๗ - ๑ = ?",
+    "answer": "๑๖",
+    "arabic_answer": 16,
+    "operation": "-"
+  },
+  {
+    "question": "๒๔ ÷ ๘ = ?",
+    "answer": "๓",
+    "arabic_answer": 3,
+    "operation": "÷"
+  },
+  {
+    "question": "๙ ÷ ๙ = ?",
+    "answer": "๑",
+    "arabic_answer": 1,
+    "operation": "÷"
+  },
+  {
+    "question": "๒๗ ÷ ๙ = ?",
+    "answer": "๓",
+    "arabic_answer": 3,
+    "operation": "÷"
+  },
+  {
+    "question": "๖ × ๔ = ?",
+    "answer": "๒๔",
+    "arabic_answer": 24,
+    "operation": "×"
+  },
+  {
+    "question": "๓๐ + ๓๓ = ?",
+    "answer": "๖๓",
+    "arabic_answer": 63,
+    "operation": "+"
+  }
+]
