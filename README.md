@@ -81,7 +81,7 @@
 pip install torch matplotlib tqdm safetensors huggingface_hub tokenizers
 ```
 
-**Memory**: ~5 GB VRAM/RAM
+**Memory**: ~24 GB VRAM/RAM
 
 ## HuggingFace Dataset
 
